@@ -1,0 +1,45 @@
+# Natural Language Processing
+langchain==0.0.267
+chromadb==0.4.6
+pdfminer.six==20221105
+InstructorEmbedding==1.0.1
+sentence-transformers==2.2.2
+faiss-cpu
+huggingface_hub
+transformers==4.34.0
+protobuf
+auto-gptq==0.2.2
+docx2txt
+unstructured
+unstructured[pdf]
+datasets==2.14.5
+
+# Utilities
+urllib3==1.26.6
+accelerate
+bitsandbytes ; sys_platform != 'win32'
+bitsandbytes-windows ; sys_platform == 'win32'
+click
+flask
+requests
+
+# Streamlit related
+streamlit
+Streamlit-extras
+
+# Excel File Manipulation
+openpyxl
+
+# For basic entities
+fuzzywuzzy
+pyvis
+
+# evaluation
+evaluate
+absl-py
+rouge-score
+seaborn
+
+# clustering
+hdbscan
+umap-learn
