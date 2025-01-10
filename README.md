@@ -1,6 +1,6 @@
-# Codebase for the LLM Analytical Reasoning Paper in IEEE Big Data 2024
+# LLM Analytical Reasoning Paper in IEEE Big Data 2024 [Best Paper Award] 
 
-:male_detective: Fun Fact :male_detective: The name of our repo, *Speculatores*, is a nod to the ancient roman military intelligence agency with the same name. In this repo and associated paper, we describe how we are augmenting LLMs to improve analytical reasoning over multiple documents, within the context of intelligence analysis.
+:male_detective: Fun Fact :male_detective: The name of our repo, *Speculatores*, is a nod to the ancient roman military intelligence agency with the same name. In this repo and associated paper, we describe how we are augmenting LLMs to improve analytical reasoning over multiple documents, within the context of intelligence analysis. Read the paper: [https://arxiv.org/abs/2411.16116](https://arxiv.org/abs/2411.16116)
 
 ### Installation
 Create a virtual environment and install the `requirements.txt` packages. Conda example is given below.
